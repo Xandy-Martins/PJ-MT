@@ -1,0 +1,130 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+
+#mainNav{
+	background-color: #3BCA9F
+}
+.nav-link{
+	color: black;
+}
+.nav-link:{
+	color: black;
+}
+.navbar-brand{
+	color: black;
+}
+
+.form-control{
+	padding: 20px;
+}
+#equipe{
+	background-color: black;
+}
+#servicos{
+	background-color: white;
+	padding: 50px;
+}
+#produtos{
+	background-color: white;
+}
+.mx-auto{
+	height: 200px;
+}
+
+#in{
+	margin-top: 70px;
+}
+
+.left{
+	margin-top: 30px;
+	margin-left: 97px;
+}
+
+footer{
+	padding: 100px;
+}
+
+
+
+.dois{
+	padding: 300px;
+
+}
+
+.tres{
+	padding: 400px;
+	background-image: url(../img/computer-desk-electronics-374074.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: scroll;
+	background-position: center center;
+}
+
+.quatro{
+	padding: 200px;
+	background-color: white;
+	display: inline-block;
+
+}
+
+.cinco{
+	padding: 200px;
+	background-color: white;
+
+}
+
+.icon{
+	font-size: 50px;
+	color:black;
+}
+
+.apresentacao{
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	color: black;
+	text-transform: uppercase;
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-size: 100px;
+}
+
+.anime{
+	opacity: 0;
+	transform: translate3d(-100px,0,0);
+	transition: .3s;
+}
+
+.anime-start{
+	opacity: 1;
+	transform: translate3d(0,0,0);
+}
+
+div .container {
+    background-color: white;
+}
+
+ ul {
+     list-style-type:none
+ }
+ @media screen and (max-width: 980px) {
+ 
+    #pagewrap {
+        width: 94%;
+    }
+    #content {
+        width: 65%;
+    }
+    #sidebar {
+        width: 30%;
+    }
+ 
+}
+.img-fluid{
+padding:40px;
+}
+.container {
+	padding:20px; 
+}
