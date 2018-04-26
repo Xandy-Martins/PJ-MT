@@ -1,4 +1,4 @@
-<head>
+<<head>
 	<meta charset="UTF-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>Martins Technology</title>
@@ -39,7 +39,7 @@
             </li>
 					<li class="nav-item">
 
-              <a class="nav-link js-scroll-trigger" href="#contact">Agendamento de Serviços</a>
+              <a class="nav-link js-scroll-trigger" href="#indexemail.php">Agendamento de Serviços</a>
             </li>
 				</ul>
 			</div>
@@ -63,9 +63,9 @@
 						</div>
 						<img class="img-fluid" src="img/programas.jpg" alt="">
 						<div class="Servicos-caption">
-							<div class="pre-spoiler">
-							<center><h4>Ativação de Programas</h4></center><br><br>
+							<div class="pre-spoiler">					
 							</div>
+							<center><button type="button" autofocus onclick="alert('Instalações de Drivers são programas responsáveis pela comunicação entre o sistema operacional de um computador e o hardware conectado a ele. ')">Ativação de Programas</button></center><br>
 							<center><p class="text-muted">Valor Avista - R$:25,00<br>
 							Valor no Cartão - R$:30,00</center>
 							</p>
@@ -78,7 +78,7 @@
 						</div>
 						<br><img class="img-fluid" src="img/pc-sem-fundo.png" alt=""></br>
 						<div class="Servicos-caption">
-							<center><h4>Desbloqueio de Computadores e Notebooks</h4></center><br>
+							<center><button type="button" autofocus onclick="alert('Instalações de Drivers são programas responsáveis pela comunicação entre o sistema operacional de um computador e o hardware conectado a ele. ')">Desbloqueio de Computadores e Notebooks</button></center><br>
 							<center><p class="text-muted">Valor Avista - R$:25,00<br>
 							Valor no Cartão - R$:30,00</center>
 							</p>
@@ -91,7 +91,7 @@
 						</div>
 						<img class="img-fluid" src="img/43.png" alt="">
 						<div class="Servicos-caption">
-							<center><h4>Formatação de Computadores e Notebooks</h4></center><br>
+								<center><button type="button" autofocus onclick="alert('Instalações de Drivers são programas responsáveis pela comunicação entre o sistema operacional de um computador e o hardware conectado a ele. ')">Formatação de Computadores e Notebooks</button></center><br>
 							<center><p class="text-muted">Valor Avista - R$:60,00<br>
 							Valor no Cartão - R$:75,00</p></center>
 						</div>
@@ -103,7 +103,7 @@
 						</div>
 						<img class="img-fluid" src="img/computador_conserto_manutencao.png" alt="">
 						<div class="Servicos-caption">
-							<center><h4>Instalação de Drives</h4></center><br>
+							<center><button type="button" autofocus onclick="alert('Instalações de Drivers são programas responsáveis pela comunicação entre o sistema operacional de um computador e o hardware conectado a ele. ')">Instalação de Drives</button></center><br>
 							<center><p class="text-muted">Valor Avista - R$:25,00<br>
 							Valor no Cartão R$:30,00</p></center>
 						</div>
@@ -115,7 +115,7 @@
 						</div>
 						<img class="img-fluid" src="img/tut-071.jpg" alt="">
 						<div class="Servicos-caption">
-							<center><h4>Instalação de Impressoras</h4></center><br>
+							<center><button type="button" autofocus onclick="alert('Instalações de Drivers são programas responsáveis pela comunicação entre o sistema operacional de um computador e o hardware conectado a ele. ')">Instalação de Impressoras</button></center><br>
 							<center><p class="text-muted">Valor Avista - R$:25,00<br>
 							Valor no Cartão - R$:30,00</p></center>
 						</div>
@@ -127,7 +127,7 @@
 						</div>
 						<img class="img-fluid" src="img/a719aa02-f520-48f5-8428-31075fa56f02.jpeg" alt="">
 						<div class="Servicos-caption">
-							<center><h4>Instalação de Jogos</h4></center><br>
+							<center><button type="button" autofocus onclick="alert('Instalações de Drivers são programas responsáveis pela comunicação entre o sistema operacional de um computador e o hardware conectado a ele. ')">Instalação de Jogos</button></center><br>
 							<center><p class="text-muted">Valor Avista - R$:25,00<br>
 							Valor no Cartão - R$:30,00</p></center>
 						</div>
@@ -139,7 +139,7 @@
 						</div>
 						<img class="img-fluid" src="img/pen-driver1.png" alt="">
 						<div class="Servicos-caption">
-							<center><h4>Pendrive Bootavel</h4></center><br>
+							<center><button type="button" autofocus onclick="alert('Instalações de Drivers são programas responsáveis pela comunicação entre o sistema operacional de um computador e o hardware conectado a ele. ')">Pendrive Bootavel</button></center><br>
 							<center><p class="text-muted">Valor Avista - R$:40,00<br>
 							Valor no Cartão - R$:60,00</p></center>
 						</div>
@@ -184,7 +184,7 @@
 						</div>
 						<img class="img-fluid" src="img/mercadopago.jpg" alt="">
 						<div class="Servicos-caption">
-							<center><h4>Mercado Pago - Point Mini</h4></center><br>
+							<center><button type="button" autofocus onclick="alert('Instalações de Drivers são programas responsáveis pela comunicação entre o sistema operacional de um computador e o hardware conectado a ele. ')">Mercado Pago - Point Mini</button></center><br>
 							<center><p class="text-muted">Valor Avista - R$:68,00<br>
 							Valor no Cartão - R$:12X de 5,73</p></center>
 						</div>
@@ -196,7 +196,7 @@
 						</div>
 						<img class="img-fluid" src="img/29513155_423510191430366_4365609516952684044_n.jpg" alt="">
 						<div class="Servicos-caption">
-							<center><h4>Chromecast</h4></center><br>
+							<center><button type="button" autofocus onclick="alert('Instalações de Drivers são programas responsáveis pela comunicação entre o sistema operacional de um computador e o hardware conectado a ele. ')">Chromecast</button></center><br>
 							<center><p class="text-muted">Valor Avista - R$:250,00<br>
 							Valor no Cartão - R$:270,00</p></center>
 						</div>
@@ -208,7 +208,7 @@
 						</div>
 						<img class="img-fluid" src="img/estabilizador.jpg" alt="">
 						<div class="Servicos-caption">
-							<center><h4>Estabilizador</h4></div></center><br>
+							<center><button type="button" autofocus onclick="alert('Instalações de Drivers são programas responsáveis pela comunicação entre o sistema operacional de um computador e o hardware conectado a ele. ')">Estabilizador</button></center><br>
 							<center><p class="text-muted">Valor Avista - R$:90,00<br>
 							Valor no Cartão - R$:110,00</p></center>
 						</div>
@@ -220,7 +220,7 @@
 							</div>
 						<img class="img-fluid" src="img/relogio.jpg" alt="">
 						<div class="Servicos-caption">
-							<center><h4>Relogio Smartwatch</h4></center><br>
+							<center><button type="button" autofocus onclick="alert('Instalações de Drivers são programas responsáveis pela comunicação entre o sistema operacional de um computador e o hardware conectado a ele. ')">Relogio Smartwatch</button></center><br>
 							<center><p class="text-muted">Valor Avista - R$:90,00<br>
 							Valor no Cartão - R$:110,00</p></center>
 						</div>
@@ -388,7 +388,7 @@
 <h1>__________________________________________________</h1>
 			</div>
 		</body>
-		<section id="contact">
+		<section id="indexemail.php">
       <div class="container">
         <div class="row">
           <div class="col-lg-12 text-center">
@@ -423,7 +423,7 @@
                 <div class="clearfix"></div>
                 <div class="col-lg-12 text-center">
                   <div id="success"></div>
-                  <button id="sendMessageButton" class="btn btn-primary btn-xl text-uppercase" type="submit">Agende Serviços</button>
+                  <button id="sendMessageButton" class="btn btn-primary btn-xl text-uppercase" type="submit">Agendar Serviços</button>
                 </div>
               </div>
             </form>
