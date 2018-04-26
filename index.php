@@ -1,4 +1,4 @@
-<<head>
+<head>
 	<meta charset="UTF-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>Martins Technology</title>
@@ -65,7 +65,7 @@
 						<div class="Servicos-caption">
 							<div class="pre-spoiler">					
 							</div>
-							<center><button type="button" autofocus onclick="alert('Instalações de Drivers são programas responsáveis pela comunicação entre o sistema operacional de um computador e o hardware conectado a ele. ')">Ativação de Programas</button></center><br>
+							<center><button type="button" autofocus onclick="alert('Este serviço, é resposavel pela instalação dos programas no sistema do cliente')">Ativação de Programas</button></center><br>
 							<center><p class="text-muted">Valor Avista - R$:25,00<br>
 							Valor no Cartão - R$:30,00</center>
 							</p>
@@ -78,7 +78,7 @@
 						</div>
 						<br><img class="img-fluid" src="img/pc-sem-fundo.png" alt=""></br>
 						<div class="Servicos-caption">
-							<center><button type="button" autofocus onclick="alert('Instalações de Drivers são programas responsáveis pela comunicação entre o sistema operacional de um computador e o hardware conectado a ele. ')">Desbloqueio de Computadores e Notebooks</button></center><br>
+							<center><button type="button" autofocus onclick="alert('Este serviço é responsavel pelo desbloquio de Computadores e Notebooks, que seja do cliente mesmo, este serviço só será realizado após a confirmação do cliente que o computador pertence ao mesmo, evitando problemas posterio')">Desbloqueio de Computadores e Notebooks</button></center><br>
 							<center><p class="text-muted">Valor Avista - R$:25,00<br>
 							Valor no Cartão - R$:30,00</center>
 							</p>
@@ -91,7 +91,7 @@
 						</div>
 						<img class="img-fluid" src="img/43.png" alt="">
 						<div class="Servicos-caption">
-								<center><button type="button" autofocus onclick="alert('Instalações de Drivers são programas responsáveis pela comunicação entre o sistema operacional de um computador e o hardware conectado a ele. ')">Formatação de Computadores e Notebooks</button></center><br>
+								<center><button type="button" autofocus onclick="alert('Esse serviço é resposavel, ela retirada de virus e malwares do computador e Notebook e pela a reintalação do sistema operacional')">Formatação de Computadores e Notebooks</button></center><br>
 							<center><p class="text-muted">Valor Avista - R$:60,00<br>
 							Valor no Cartão - R$:75,00</p></center>
 						</div>
@@ -103,7 +103,7 @@
 						</div>
 						<img class="img-fluid" src="img/computador_conserto_manutencao.png" alt="">
 						<div class="Servicos-caption">
-							<center><button type="button" autofocus onclick="alert('Instalações de Drivers são programas responsáveis pela comunicação entre o sistema operacional de um computador e o hardware conectado a ele. ')">Instalação de Drives</button></center><br>
+							<center><button type="button" autofocus onclick="alert('Esté serviço, é resposavel pela instalação de drive de rede,som,vídeo, dependendo do drrve que esteja faltando no dispositivo. ')">Instalação de Drives</button></center><br>
 							<center><p class="text-muted">Valor Avista - R$:25,00<br>
 							Valor no Cartão R$:30,00</p></center>
 						</div>
@@ -115,7 +115,7 @@
 						</div>
 						<img class="img-fluid" src="img/tut-071.jpg" alt="">
 						<div class="Servicos-caption">
-							<center><button type="button" autofocus onclick="alert('Instalações de Drivers são programas responsáveis pela comunicação entre o sistema operacional de um computador e o hardware conectado a ele. ')">Instalação de Impressoras</button></center><br>
+							<center><button type="button" autofocus onclick="alert('Esté serviço, é resposavel pela instalação de impressoras e configuração para uso.')">Instalação de Impressoras</button></center><br>
 							<center><p class="text-muted">Valor Avista - R$:25,00<br>
 							Valor no Cartão - R$:30,00</p></center>
 						</div>
@@ -127,7 +127,7 @@
 						</div>
 						<img class="img-fluid" src="img/a719aa02-f520-48f5-8428-31075fa56f02.jpeg" alt="">
 						<div class="Servicos-caption">
-							<center><button type="button" autofocus onclick="alert('Instalações de Drivers são programas responsáveis pela comunicação entre o sistema operacional de um computador e o hardware conectado a ele. ')">Instalação de Jogos</button></center><br>
+							<center><button type="button" autofocus onclick="alert('Esté serviço é resposavel pela instalação de jogos para o entreterimento do cliente.')">Instalação de Jogos</button></center><br>
 							<center><p class="text-muted">Valor Avista - R$:25,00<br>
 							Valor no Cartão - R$:30,00</p></center>
 						</div>
@@ -139,7 +139,7 @@
 						</div>
 						<img class="img-fluid" src="img/pen-driver1.png" alt="">
 						<div class="Servicos-caption">
-							<center><button type="button" autofocus onclick="alert('Instalações de Drivers são programas responsáveis pela comunicação entre o sistema operacional de um computador e o hardware conectado a ele. ')">Pendrive Bootavel</button></center><br>
+							<center><button type="button" autofocus onclick="alert('Esté serviço é resposavel pela configuração e instalação de sistema operacional no pendrive.  ')">Pendrive Bootavel</button></center><br>
 							<center><p class="text-muted">Valor Avista - R$:40,00<br>
 							Valor no Cartão - R$:60,00</p></center>
 						</div>
@@ -184,7 +184,7 @@
 						</div>
 						<img class="img-fluid" src="img/mercadopago.jpg" alt="">
 						<div class="Servicos-caption">
-							<center><button type="button" autofocus onclick="alert('Instalações de Drivers são programas responsáveis pela comunicação entre o sistema operacional de um computador e o hardware conectado a ele. ')">Mercado Pago - Point Mini</button></center><br>
+							<center><button type="button" autofocus onclick="alert('Maquineta de cartão de crédito e debito, sem nenhum taxa mensal para o uso. ')">Mercado Pago - Point Mini</button></center><br>
 							<center><p class="text-muted">Valor Avista - R$:68,00<br>
 							Valor no Cartão - R$:12X de 5,73</p></center>
 						</div>
@@ -196,7 +196,7 @@
 						</div>
 						<img class="img-fluid" src="img/29513155_423510191430366_4365609516952684044_n.jpg" alt="">
 						<div class="Servicos-caption">
-							<center><button type="button" autofocus onclick="alert('Instalações de Drivers são programas responsáveis pela comunicação entre o sistema operacional de um computador e o hardware conectado a ele. ')">Chromecast</button></center><br>
+							<center><button type="button" autofocus onclick="alert('Dispositivo para a visualização de aplicativos em sua tv normal, que não seja smart tv, ele faz a configuração para a restransmição do conetudo do smartphone.')">Chromecast</button></center><br>
 							<center><p class="text-muted">Valor Avista - R$:250,00<br>
 							Valor no Cartão - R$:270,00</p></center>
 						</div>
@@ -208,7 +208,7 @@
 						</div>
 						<img class="img-fluid" src="img/estabilizador.jpg" alt="">
 						<div class="Servicos-caption">
-							<center><button type="button" autofocus onclick="alert('Instalações de Drivers são programas responsáveis pela comunicação entre o sistema operacional de um computador e o hardware conectado a ele. ')">Estabilizador</button></center><br>
+							<center><button type="button" autofocus onclick="alert('Esté produtor tem a garantia de não calsa danos na CPU garantindo a segurança do computador.')">Estabilizador</button></center><br>
 							<center><p class="text-muted">Valor Avista - R$:90,00<br>
 							Valor no Cartão - R$:110,00</p></center>
 						</div>
@@ -220,7 +220,7 @@
 							</div>
 						<img class="img-fluid" src="img/relogio.jpg" alt="">
 						<div class="Servicos-caption">
-							<center><button type="button" autofocus onclick="alert('Instalações de Drivers são programas responsáveis pela comunicação entre o sistema operacional de um computador e o hardware conectado a ele. ')">Relogio Smartwatch</button></center><br>
+							<center><button type="button" autofocus onclick="alert('Esté relogio tem a mesma função de um smartphone, realizando ligações e outras interatividade.')">Relogio Smartwatch</button></center><br>
 							<center><p class="text-muted">Valor Avista - R$:90,00<br>
 							Valor no Cartão - R$:110,00</p></center>
 						</div>
@@ -326,7 +326,8 @@
 				</div>
 			</div>
 		</section>
-		<center><h1>__________________________________________________</h1></center>				
+	
+
  <section id="about">
       <div class="container">
         <div class="row">
@@ -334,7 +335,7 @@
 
             <h1>Historia da Martins Technology</h1>
                           <h4 class="text-muted">A Martins Technology, surgiu na intenção de atender clientes de menor renda, onde possamos atuar realizando serviços de qualidade com preços abaixos, visando sempre a satisfação dos clientes.<br>
-                          A Martins Technology foi fundada no dia 07 de maio de 2017, pelo Administrador José Alexandre Martins, hoje em dia a Martins Technology possui vários outros colaboradores, em outros municípios, visando a extensão da empresa, estamos localizados nos municípios de Paulista, Abreu e Lima e Itapissuma, acreditamos que os nossos cliente devem sempre ser nossa prioridade, sempre estamos disponível para atender as solicitações e as dúvidas que possam surgiu de qualquer serviço.</h4><br><br>
+                          A Martins Technology foi fundada no dia 07 de maio de 2017, pelo Administrador José Alexandre Martins, hoje em dia a Martins Technology possui vários outros colaboradores, em outros municípios, visando a extensão da empresa, estamos localizados nos municípios de Paulista, Abreu e Lima e Itapissuma, acreditamos que os nossos clientes devem sempre ser nossa prioridade, sempre estamos disponível para atender as solicitações e as dúvidas que possam surgir de qualquer serviço.</h4><br><br>
             <h3 class="section-subheading text-muted"></h4>
           </div>
         </div>
@@ -382,48 +383,15 @@
               </li>
               <li class="timeline-inverted">
                 <div class="timeline-image">
-                  <center><h4>
+                  <center><h4><br><br>
 
                 </div>
-<h1>__________________________________________________</h1>
+
 			</div>
 		</body>
-		<section id="indexemail.php">
-      <div class="container">
-        <div class="row">
-          <div class="col-lg-12 text-center">
-            <h2 class="section-heading text-uppercase">Agendamentos de Serviços</h2>
-            <h3 class="section-subheading text-muted">Agradecemos por você querer fazer parte do nosso time de cliente, em breve entraremos em contato com você.</h3>
-          </div>
-        </div>
-        <div class="row">
-          <div class="col-lg-12">
-            <form id="contactForm" name="Agendamento realizado, em breve entraremos em contato com você." novalidate>
-              <div class="row">
-                <div class="col-md-6">
-                  <div class="form-group">
-                    <input class="form-control" id="name" type="text" placeholder="Nome Completo" required data-validation-required-message="Por Favor insira o seu nome completo.">
-                    <p class="help-block text-danger"></p>
-                  </div>
-                  <div class="form-group">
-                    <input class="form-control" id="email" type="email" placeholder="E-mail" required data-validation-required-message="Por Favor insira o seu  e-mail.">
-                    <p class="help-block text-danger"></p>
-                  </div>
-                  <div class="form-group">
-                    <input class="form-control" id="phone" type="tel" placeholder="WhatsApp - (81) 98877-1710" required data-validation-required-message="Por Favor insira o seu WhatsApp">
-                    <p class="help-block text-danger"></p>
-                  </div>
-                </div>
-                <div class="col-md-6">
-                  <div class="form-group">
-                    <textarea class="form-control" id="message" placeholder="Descreva seu problema no seu Desktop." required data-validation-required-message="Campo em branco, por favor informe seu problema."></textarea>
-                    <p class="help-block text-danger"></p>
-                  </div>
-                </div>
-                <div class="clearfix"></div>
-                <div class="col-lg-12 text-center">
-                  <div id="success"></div>
-                  <button id="sendMessageButton" class="btn btn-primary btn-xl text-uppercase" type="submit">Agendar Serviços</button>
+		
+                  <a href="formulario.php">Agendamento de Serviço</a>
+
                 </div>
               </div>
             </form>
