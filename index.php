@@ -39,7 +39,7 @@
             </li>
 					<li class="nav-item">
 
-              <a class="nav-link js-scroll-trigger" href="#indexemail.php">Agendamento de Serviços</a>
+              <a class="nav-link js-scroll-trigger" href="#agendamenodeservicos.php">Agendamento de Serviços</a>
             </li>
 				</ul>
 			</div>
@@ -52,7 +52,7 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-lg-12 text-center">
-						<h1 class="">Serviços</h1>	
+						<h1 class="">Serviços</h1><br>
 					</div>
 				</div>
 				<div class="row">
@@ -61,13 +61,26 @@
 							<div class="Servicos-hover-content">
 							</div>
 						</div>
+						<center><button type="button" class="btn btn-outline-primary">Ativação de Programas</button></center>
 						<img class="img-fluid" src="img/programas.jpg" alt="">
 						<div class="Servicos-caption">
 							<div class="pre-spoiler">					
 							</div>
-							<center><button type="button" autofocus onclick="alert('Este serviço, é resposavel pela instalação dos programas no sistema do cliente')">Ativação de Programas</button></center><br>
-							<center><p class="text-muted">Valor Avista - R$:25,00<br>
+							<p>
+
+  <center><button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">
+    Informações Sobre o Serviço
+  </button></center>
+</p>
+<div class="collapse" id="collapseExample">
+  <div class="card card-body">
+    Este serviço tem por sua vez a instalação de programas de qualquer sistema operacial, instalamos da melhor forma possivel para a satisfação do cliente.<br><br>
+    <center><p class=>Valor Avista - R$:25,00<br>
 							Valor no Cartão - R$:30,00</center>
+  </div>
+</div>
+							
+
 							</p>
 						</div>
 					</div>
@@ -76,11 +89,24 @@
 							<div class="Servicos-hover-content">
 							</div>
 						</div>
+						<center><button type="button" class="btn btn-outline-primary">Descbloqueio de Computadores e Notebooks</button></center>
 						<br><img class="img-fluid" src="img/pc-sem-fundo.png" alt=""></br>
 						<div class="Servicos-caption">
-							<center><button type="button" autofocus onclick="alert('Este serviço é responsavel pelo desbloquio de Computadores e Notebooks, que seja do cliente mesmo, este serviço só será realizado após a confirmação do cliente que o computador pertence ao mesmo, evitando problemas posterio')">Desbloqueio de Computadores e Notebooks</button></center><br>
-							<center><p class="text-muted">Valor Avista - R$:25,00<br>
+							
+							<p>
+ 
+  <center><button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#collapseExamples" aria-expanded="false" aria-controls="collapseExample">
+    Informações Sobre o Serviço<br>
+  </button><center>
+</p>
+<div class="collapse" id="collapseExamples">
+  <div class="card card-body">
+    Este serviço, tem como finalidade o desbloqueio de computadores que foram bloqueados por esquecimento de senhas.<br><br>
+     <center><p class=>Valor Avista - R$:25,00<br>
 							Valor no Cartão - R$:30,00</center>
+  
+  </div>
+</div><br>
 							</p>
 						</div>
 					</div>
@@ -89,11 +115,21 @@
 							<div class="Servicos-hover-content">
 							</div>
 						</div>
-						<img class="img-fluid" src="img/43.png" alt="">
+						<center><button type="button" class="btn btn-outline-primary">Formatação de Computadores e Notebooks</button></center>
+						<img class="img-fluid" src="img/43.png" alt=""><br>
 						<div class="Servicos-caption">
-								<center><button type="button" autofocus onclick="alert('Esse serviço é resposavel, ela retirada de virus e malwares do computador e Notebook e pela a reintalação do sistema operacional')">Formatação de Computadores e Notebooks</button></center><br>
-							<center><p class="text-muted">Valor Avista - R$:60,00<br>
-							Valor no Cartão - R$:75,00</p></center>
+						
+<p>
+ 
+  <center><button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#collapseExamplesss" aria-expanded="false" aria-controls="collapseExamplesss">
+    Informações Sobre o Serviço
+  </button></center>
+</p>
+<div class="collapse" id="collapseExamplesss">
+  <div class="card card-body">
+    Este serviço tem como finalidade a remoção de vírus do sistema operacional e a reinstalação do sistema operacial, onde cliente possa ultilizar o seu desktop, sem problemas com lentidão causado por vírus e malwares.
+  </div>
+</div>
 						</div>
 					</div>
 					<div class="col-md-4 col-sm-6 Servico-item">
@@ -101,23 +137,45 @@
 							<div class="Servicos-hover-content">
 							</div>
 						</div>
+						<center><button type="button" class="btn btn-outline-primary">Instalação de Drives</button></center>
 						<img class="img-fluid" src="img/computador_conserto_manutencao.png" alt="">
 						<div class="Servicos-caption">
-							<center><button type="button" autofocus onclick="alert('Esté serviço, é resposavel pela instalação de drive de rede,som,vídeo, dependendo do drrve que esteja faltando no dispositivo. ')">Instalação de Drives</button></center><br>
-							<center><p class="text-muted">Valor Avista - R$:25,00<br>
-							Valor no Cartão R$:30,00</p></center>
-						</div>
+							
+						<p>
+    <center><button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#collapseExamplessss" aria-expanded="false" aria-controls="collapseExample">
+   Informações Sobre o Serviço
+  </button></center>
+</p>
+<div class="collapse" id="collapseExamplessss">
+  <div class="card card-body">
+    Este serviço tem como finalidade, a instalação drive do sistema operacional que possam está faltando no sistema operacional.<br><br>
+    <center><p class=>Valor Avista - R$:25,00<br>
+							Valor no Cartão - R$:30,00</p></center>
+  </div>
+</div>
+						</div><br>
 					</div>
 					<div class="col-md-4 col-sm-6 Servicos-item">
 						<div class="Servicos-hover">
 							<div class="Servicos-hover-content">
 							</div>
 						</div>
+						<center><button type="button" class="btn btn-outline-primary">Instalação de Impressoras</button></center>
 						<img class="img-fluid" src="img/tut-071.jpg" alt="">
 						<div class="Servicos-caption">
-							<center><button type="button" autofocus onclick="alert('Esté serviço, é resposavel pela instalação de impressoras e configuração para uso.')">Instalação de Impressoras</button></center><br>
-							<center><p class="text-muted">Valor Avista - R$:25,00<br>
+							<p>
+ 
+  <center><button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#collapseExamplez" aria-expanded="false" aria-controls="collapseExample">
+   Informações Sobre o Serviço
+  </button></center>
+</p>
+<div class="collapse" id="collapseExamplez">
+  <div class="card card-body">
+    Este Serviço tem como finalidade a instalação de impressoras nas casas dos nossos clientes.<br><br>
+    <center><p class=>Valor Avista - R$:25,00<br>
 							Valor no Cartão - R$:30,00</p></center>
+  </div>
+</div>
 						</div>
 					</div>
 					<div class="col-md-4 col-sm-6 Servicos-item">
@@ -125,11 +183,23 @@
 							<div class="Servicos-hover-content">
 							</div>
 						</div>
+						<center><button type="button" class="btn btn-outline-primary">Instalação de Jogos</button></center>
 						<img class="img-fluid" src="img/a719aa02-f520-48f5-8428-31075fa56f02.jpeg" alt="">
 						<div class="Servicos-caption">
-							<center><button type="button" autofocus onclick="alert('Esté serviço é resposavel pela instalação de jogos para o entreterimento do cliente.')">Instalação de Jogos</button></center><br>
-							<center><p class="text-muted">Valor Avista - R$:25,00<br>
+							
+							<p>
+  
+  <center><button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#collapseExampleq" aria-expanded="false" aria-controls="collapseExample">
+    Informações Sobre o Serviço
+  </button></center>
+</p>
+<div class="collapse" id="collapseExampleq">
+  <div class="card card-body">
+    Este serviço tem como finalidade a instalação de jogos em computadores do clientes.<br><br>
+    <center><p class=>Valor Avista - R$:25,00<br>
 							Valor no Cartão - R$:30,00</p></center>
+  </div>
+</div>
 						</div>
 						</div>
 					<div class="col-md-4 col-sm-6 Servicos-item">
@@ -137,11 +207,22 @@
 							<div class="Servicos-hover-content">
 							</div>
 						</div>
+						<center><button type="button" class="btn btn-outline-primary">Pendrive Bootável</button></center>
 						<img class="img-fluid" src="img/pen-driver1.png" alt="">
 						<div class="Servicos-caption">
-							<center><button type="button" autofocus onclick="alert('Esté serviço é resposavel pela configuração e instalação de sistema operacional no pendrive.  ')">Pendrive Bootavel</button></center><br>
-							<center><p class="text-muted">Valor Avista - R$:40,00<br>
+							<p>
+  
+  <center><button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#collapseExamplea" aria-expanded="false" aria-controls="collapseExample">
+    Informações Sobre o Serviço
+  </button></center>
+</p>
+<div class="collapse" id="collapseExamplea">
+  <div class="card card-body">
+    Este serviço tem como finalidade o uso do pendrives para formatações futuras no sistema operacional.<br><br>
+    <center><p class=>Valor Avista - R$:45,00<br>
 							Valor no Cartão - R$:60,00</p></center>
+  </div>
+</div>
 						</div>
 					</div>
 					<div class="col-md-4 col-sm-6 Servicos-item">
@@ -173,7 +254,7 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-lg-12 text-center">
-						<h1 class="">Produtos</h1>
+						<h1 class="">Produtos</h1><br><br>
 					</div>
 				</div>
 				<div class="row">
@@ -182,11 +263,24 @@
 							<div class="Servicos-hover-content">
 							</div>
 						</div>
+						<center><button type="button" class="btn btn-outline-primary">Mercado Pago - Point Mini</button></center>
+				
 						<img class="img-fluid" src="img/mercadopago.jpg" alt="">
 						<div class="Servicos-caption">
-							<center><button type="button" autofocus onclick="alert('Maquineta de cartão de crédito e debito, sem nenhum taxa mensal para o uso. ')">Mercado Pago - Point Mini</button></center><br>
-							<center><p class="text-muted">Valor Avista - R$:68,00<br>
-							Valor no Cartão - R$:12X de 5,73</p></center>
+							
+							<p>
+  
+  <center><button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#collapseExamplev" aria-expanded="false" aria-controls="collapseExample">
+    Informações Sobre o Produto
+  </button></center>
+</p>
+<div class="collapse" id="collapseExamplev">
+  <div class="card card-body">
+    Está maquineta tem as menores taxas do mercado o valor está aplicado o desconto da Martins Technology.<br><br>
+    <center><p class=>Valor Avista - R$:68,80<br>
+							Valor no Cartão - 12x R$:5,73</p></center>
+  </div>
+</div>
 						</div>
 					</div>
 					<div class="col-md-4 col-sm-6 Servicos-item">
@@ -194,11 +288,23 @@
 							<div class="Servicos-hover-content">
 							</div>
 						</div>
+						<center><button class="btn btn-primary" type="submit">Google ChormeCast</button></center>
 						<img class="img-fluid" src="img/29513155_423510191430366_4365609516952684044_n.jpg" alt="">
 						<div class="Servicos-caption">
-							<center><button type="button" autofocus onclick="alert('Dispositivo para a visualização de aplicativos em sua tv normal, que não seja smart tv, ele faz a configuração para a restransmição do conetudo do smartphone.')">Chromecast</button></center><br>
-							<center><p class="text-muted">Valor Avista - R$:250,00<br>
+							
+							<p>
+ 
+  <center><button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#collapseExampleh" aria-expanded="false" aria-controls="collapseExample">
+   Informações Sobre o Produto
+  </button></center>
+</p>
+<div class="collapse" id="collapseExampleh">
+  <div class="card card-body">
+   O Chromecast é um acessório do Google capaz de “transformar” qualquer televisão com uma entrada HDMI em uma Smart TV, porque oferece serviços como o Netflix. O pequeno dispositivo, que lembra o formato de pen drive, é também um transmissor. Ele faz streaming do conteúdo de outros aparelhos, como smartphones e computadores, para a TV.<br><br>
+    <center><p class=>Valor Avista - R$:250,00<br>
 							Valor no Cartão - R$:270,00</p></center>
+  </div>
+</div>
 						</div>
 					</div>
 					<div class="col-md-4 col-sm-6 Servicos-item">
@@ -206,11 +312,25 @@
 							<div class="Servicos-hover-content">
 							</div>
 						</div>
+						<center><button class="btn btn-primary" type="submit">Estabilizador</button></center>
 						<img class="img-fluid" src="img/estabilizador.jpg" alt="">
 						<div class="Servicos-caption">
-							<center><button type="button" autofocus onclick="alert('Esté produtor tem a garantia de não calsa danos na CPU garantindo a segurança do computador.')">Estabilizador</button></center><br>
-							<center><p class="text-muted">Valor Avista - R$:90,00<br>
+							
+						<p>
+
+  <center><button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#collapseExample4" aria-expanded="false" aria-controls="collapseExample">
+    Informações Sobre o Produto
+  </button></center>
+</p>
+<div class="collapse" id="collapseExample4">
+  <div class="card card-body">
+    é responsável pela conexão de aparelhos eletrônicos a tomadas na casa dos brasileiros há décadas, antes mesmo de existirem os computadores pessoais.<br><br>
+    <center><p class=>Valor Avista - R$:90,00<br>
 							Valor no Cartão - R$:110,00</p></center>
+  </div>
+</div>
+  </div>
+</div>
 						</div>
 					</div>
 					<div class="col-md-4 col-sm-6 Servico-item">
@@ -218,11 +338,23 @@
 							<div class="Servicos-hover-content">
 							</div>
 							</div>
+							<center><button class="btn btn-primary" type="submit">Relogio Smartwatch</button></center>
 						<img class="img-fluid" src="img/relogio.jpg" alt="">
 						<div class="Servicos-caption">
-							<center><button type="button" autofocus onclick="alert('Esté relogio tem a mesma função de um smartphone, realizando ligações e outras interatividade.')">Relogio Smartwatch</button></center><br>
-							<center><p class="text-muted">Valor Avista - R$:90,00<br>
+							
+							<p>
+  
+  <center><button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#collapseExample3" aria-expanded="false" aria-controls="collapseExample">
+    Informações Sobre o Produto
+  </button></center>
+</p>
+<div class="collapse" id="collapseExample3">
+  <div class="card card-body">
+   Usando O Processador Mtk626 3.0 Para Ligar-Se Com O Seu Smartphone Para Ser Usado Como Ummarcador Para Que Voce Possa Fazer E Receber Chamadas, Bem Como Proporcionar Chamada E Notificacao De Mensagem. Nao So Isso, Mas Voce Pode Usar O Software Personalizado Para Controlar Seus Movimentos Diarios, Uma Vez Que Foi Construido Em Um Pedometro, Monitor De Sono E Lembrete Sedentario. A Capacidade De Sincronizar Com O Seu Calendario De Telefones Significntes E Com Caracteristicas Anti Perda Voce Sera Lembrado Se Voce Acidentalmente Deixar O Seu Celular Para Tras. Se Voce Estiver Indo Para Uma Corrida Ou Simplesmente Nao Quer Levar Seu Celular, Voce Pode Inserir Um Cartao Micro Sim No Relogio E Deixar O Seu Telefone Em Casa. O Relogio Do Telefone Dz09 Pode Fazer Tudo Para Que Voce Nao Precise Sair Sem Ele. A Tela Sensivel Ao Toque De 1,56 Polegadas Fornece Uma Interface Clara Para Que Voce Possa Acessar As Funcoes De Audio E Video. A Camera Permite Tirar Fotos E Video De Seu Proprio Modo. O Slot Para Cartao Micro Sd Podeser Usado Para Fornecer Ate 32 Gb De Armazenamento Removivel Para Todo O Seu Conteudo De Midia E Com Uma Duracao De Bateria De Espera 180 Horas.<br><br>
+    <center><p class=>Valor Avista - R$:90,00<br>
 							Valor no Cartão - R$:110,00</p></center>
+  </div>
+</div>
 						</div>
 
 
@@ -388,10 +520,9 @@
                 </div>
 
 			</div>
-		</body>
+		</body><br>
 		
-                  <a href="formulario.php">Agendamento de Serviço</a>
-
+                  <center><a href="formulario.php"><center><button class="btn btn-primary" type="submit">Agendamento de Serviços</button></center>
                 </div>
               </div>
             </form>
@@ -422,16 +553,21 @@
 				<div class="container">
 					<div class="row">
 						<div class="col-md-4">
-							<span class="copyright">Instituto Federal de Pernambuco</span>
+							<span class="copyright"><center><button class="btn btn-primary" type="submit">Instituto Federal de Pernambuco</button></center></span><br><br>
+
+
+
+
+
 						</div>
 						<div class="col-md-4">
-							<ul class="list-inline social-buttons">
+							<center><ul class="list-inline social-buttons"></center>
 								<li class="list-inline-item">
-									<a href="https://www.facebook.com/MartinsTechnology">
-                    <i class="fab fa-facebook icon"></i>
+									<center><a href="https://www.facebook.com/MartinsTechnology"></a></center>
+                    <center><i class="fab fa-facebook icon"></i></center>
 									</a>
 								</li>
-								<li class="list-inline-item">
+								<ceter><li class="list-inline-item"></center>
 									<a href="https://github.com/Xandy-Martins/PJ-MT.git">
 										<i class="fab fa-github icon"></i>
 									</a>
@@ -446,7 +582,7 @@
 						<div class="col-md-4">
 							<ul class="list-inline quicklinks">
 								<li class="list-inline-item">
-									<a href="#">Página Inicial</a>
+									<a href="#"><center><button class="btn btn-primary" type="submit">Página Inicial</button></center></a>
 								</li>
 							</ul>
 						</div>
