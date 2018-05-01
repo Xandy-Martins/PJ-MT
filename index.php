@@ -288,7 +288,7 @@
 							<div class="Servicos-hover-content">
 							</div>
 						</div>
-						<center><button class="btn btn-primary" type="submit">Google ChormeCast</button></center>
+						<center><button type="button" class="btn btn-outline-primary">Google ChormeCast</button></center>
 						<img class="img-fluid" src="img/29513155_423510191430366_4365609516952684044_n.jpg" alt="">
 						<div class="Servicos-caption">
 							
@@ -312,7 +312,7 @@
 							<div class="Servicos-hover-content">
 							</div>
 						</div>
-						<center><button class="btn btn-primary" type="submit">Estabilizador</button></center>
+						<center><button type="button" class="btn btn-outline-primary">Estabilizador</button></center>
 						<img class="img-fluid" src="img/estabilizador.jpg" alt="">
 						<div class="Servicos-caption">
 							
@@ -338,7 +338,7 @@
 							<div class="Servicos-hover-content">
 							</div>
 							</div>
-							<center><button class="btn btn-primary" type="submit">Relogio Smartwatch</button></center>
+							<center><button type="button" class="btn btn-outline-primary">Relogio Smartwatch</button></center>
 						<img class="img-fluid" src="img/relogio.jpg" alt="">
 						<div class="Servicos-caption">
 							
