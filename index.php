@@ -23,7 +23,7 @@
 						<li class="nav-item">
 						<a class="nav-link js-scroll-trigger" data-toggle="modal" data-target="#exampleModal" href="#quatro"></a>
 					       <li class="nav-item">
-              <a class="nav-link js-scroll-trigger" href="#about">História</a>
+              <a class="nav-link js-scroll-trigger" href="login.html">Login</a>
             </li>
 
 					</li>
@@ -33,13 +33,16 @@
 					       <li class="nav-item">
               <a class="nav-link js-scroll-trigger" href="#produtos">Produtos</a>
             </li>
+            <li class="nav-item">
+              <a class="nav-link js-scroll-trigger" href="#about">História</a>
+            </li>
 
          
               <a class="nav-link js-scroll-trigger" href="#team">Equipe</a>
             </li>
 					<li class="nav-item">
 
-              <a class="nav-link js-scroll-trigger" href="#agendamenodeservicos.php">Agendamento de Serviços</a>
+              <a class="nav-link js-scroll-trigger" href="formulario.php">Agendamento de Serviços</a>
             </li>
 				</ul>
 			</div>
@@ -127,7 +130,10 @@
 </p>
 <div class="collapse" id="collapseExamplesss">
   <div class="card card-body">
-    Este serviço tem como finalidade a remoção de vírus do sistema operacional e a reinstalação do sistema operacial, onde cliente possa ultilizar o seu desktop, sem problemas com lentidão causado por vírus e malwares.
+    Este serviço tem como finalidade a remoção de vírus do sistema operacional e a reinstalação do sistema operacial, onde cliente possa ultilizar o seu desktop, sem problemas com lentidão causado por vírus e malwares.<br><br>
+    <center><p class=>Valor Avista - R$:25,00<br>
+							Valor no Cartão - R$:30,00</center>
+
   </div>
 </div>
 						</div>
@@ -332,28 +338,7 @@
   </div>
 </div>
 						</div>
-					</div>
-					<div class="col-md-4 col-sm-6 Servico-item">
-						<div class="Servicos-hover">
-							<div class="Servicos-hover-content">
-							</div>
-							</div>
-							<center><button type="button" class="btn btn-outline-primary">Relogio Smartwatch</button></center>
-						<img class="img-fluid" src="img/relogio.jpg" alt="">
-						<div class="Servicos-caption">
-							
-							<p>
-  
-  <center><button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#collapseExample3" aria-expanded="false" aria-controls="collapseExample">
-    Informações Sobre o Produto
-  </button></center>
-</p>
-<div class="collapse" id="collapseExample3">
-  <div class="card card-body">
-   Usando O Processador Mtk626 3.0 Para Ligar-Se Com O Seu Smartphone Para Ser Usado Como Ummarcador Para Que Voce Possa Fazer E Receber Chamadas, Bem Como Proporcionar Chamada E Notificacao De Mensagem. Nao So Isso, Mas Voce Pode Usar O Software Personalizado Para Controlar Seus Movimentos Diarios, Uma Vez Que Foi Construido Em Um Pedometro, Monitor De Sono E Lembrete Sedentario. A Capacidade De Sincronizar Com O Seu Calendario De Telefones Significntes E Com Caracteristicas Anti Perda Voce Sera Lembrado Se Voce Acidentalmente Deixar O Seu Celular Para Tras. Se Voce Estiver Indo Para Uma Corrida Ou Simplesmente Nao Quer Levar Seu Celular, Voce Pode Inserir Um Cartao Micro Sim No Relogio E Deixar O Seu Telefone Em Casa. O Relogio Do Telefone Dz09 Pode Fazer Tudo Para Que Voce Nao Precise Sair Sem Ele. A Tela Sensivel Ao Toque De 1,56 Polegadas Fornece Uma Interface Clara Para Que Voce Possa Acessar As Funcoes De Audio E Video. A Camera Permite Tirar Fotos E Video De Seu Proprio Modo. O Slot Para Cartao Micro Sd Podeser Usado Para Fornecer Ate 32 Gb De Armazenamento Removivel Para Todo O Seu Conteudo De Midia E Com Uma Duracao De Bateria De Espera 180 Horas.<br><br>
-    <center><p class=>Valor Avista - R$:90,00<br>
-							Valor no Cartão - R$:110,00</p></center>
-  </div>
+					
 </div>
 						</div>
 
@@ -519,10 +504,9 @@
 
                 </div>
 
-			</div>
-		</body><br>
+								</div>
+							</body><br>
 		
-                  <center><a href="formulario.php"><center><button class="btn btn-primary" type="submit">Agendamento de Serviços</button></center>
                 </div>
               </div>
             </form>
