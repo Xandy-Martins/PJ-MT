@@ -23,7 +23,7 @@
 						<li class="nav-item">
 						<a class="nav-link js-scroll-trigger" data-toggle="modal" data-target="#exampleModal" href="#quatro"></a>
 					       <li class="nav-item">
-              <a class="nav-link js-scroll-trigger" href="login.html">Login</a>
+              <a class="nav-link js-scroll-trigger" href="login.php">Login</a>
             </li>
 
 					</li>
@@ -130,10 +130,7 @@
 </p>
 <div class="collapse" id="collapseExamplesss">
   <div class="card card-body">
-    Este serviço tem como finalidade a remoção de vírus do sistema operacional e a reinstalação do sistema operacial, onde cliente possa ultilizar o seu desktop, sem problemas com lentidão causado por vírus e malwares.<br><br>
-    <center><p class=>Valor Avista - R$:25,00<br>
-							Valor no Cartão - R$:30,00</center>
-
+    Este serviço tem como finalidade a remoção de vírus do sistema operacional e a reinstalação do sistema operacial, onde cliente possa ultilizar o seu desktop, sem problemas com lentidão causado por vírus e malwares.
   </div>
 </div>
 						</div>
@@ -338,7 +335,9 @@
   </div>
 </div>
 						</div>
+					</div>
 					
+  </div>
 </div>
 						</div>
 
@@ -547,8 +546,8 @@
 						<div class="col-md-4">
 							<center><ul class="list-inline social-buttons"></center>
 								<li class="list-inline-item">
-									<center><a href="https://www.facebook.com/MartinsTechnology"></a></center>
-                    <center><i class="fab fa-facebook icon"></i></center>
+									<a href="https://Facebook.com/MartinsTechnology">
+										<i class="fab fa-facebook icon"></i>
 									</a>
 								</li>
 								<ceter><li class="list-inline-item"></center>
