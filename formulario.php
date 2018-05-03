@@ -2,13 +2,13 @@
       <div class="container">
         <div class="row">
           <div class="col-lg-12 text-center">
-            <h2 class="section-heading text-uppercase">Agendamentos de Serviços</h2>
-            <h3 class="section-subheading text-muted">Agradecemos por você querer fazer parte do nosso time de cliente, em breve entraremos em contato com você.</h3>
+            <center><h2 class="section-heading text-uppercase">Agendamentos de Serviços</h2></center>
+            <center><h3 class="section-subheading text-muted">Agradecemos por você querer fazer parte do nosso time de cliente, em breve entraremos em contato com você.</h3></center>
           </div>
         </div>
         <div class="row">
           <div class="col-lg-12">
-            <form id="contactForm" name="Agendamento realizado, em breve entraremos em contato com você." action="email.php" method="POST" novalidate>
+            <center><form id="contactForm" name="Agendamento realizado, em breve entraremos em contato com você." action="email.php" method="POST" novalidate>
               <div class="row">
                 <div class="col-md-6">
                   <div class="form-group">
@@ -29,7 +29,7 @@
                     <textarea class="form-control" id="message" name="mensagem" placeholder="Descreva seu problema no seu Desktop." required data-validation-required-message="Campo em branco, por favor informe seu problema."></textarea>
                     <p class="help-block text-danger"></p>
 
-                    <input type="submit" value="Agenda Serviço">
+                    <input type="submit" value="Agendar Serviço">
                   </div>
                 </div>
                 <div class="clearfix"></div>
@@ -37,11 +37,18 @@
                   <div id="success"></div>
 </div>
 </div>
-</form>
+</form></center>
 </div>
 </div>
 </div>
 </section>
-
+                </div>
+              </div>
+            </form>
+          </div>
+        </div>
+      </div>
+    </section>
+    <center><a href="index.php"><button type="button" class="btn btn-outline-secondary">Voltar</button></center>
 
 
