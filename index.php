@@ -21,9 +21,10 @@
 				<ul class="navbar-nav text-uppercase ml-auto">
 					<li class="nav-item">
 						<li class="nav-item">
-						<a class="nav-link js-scroll-trigger" data-toggle="modal" data-target="#exampleModal" href="#quatro"></a>
+						<a class="nav-link js-scroll-trigger" data-toggle="modal" data-target="#myModal" href="#my"></a>
 					       <li class="nav-item">
-              <a class="nav-link js-scroll-trigger" href="login.php">Login</a>
+              <a class="nav-link js-scroll-trigger" href="#myModal">Login</a>
+
             </li>
 
 					</li>
@@ -33,6 +34,7 @@
 					       <li class="nav-item">
               <a class="nav-link js-scroll-trigger" href="#produtos">Produtos</a>
             </li>
+
             <li class="nav-item">
               <a class="nav-link js-scroll-trigger" href="#about">História</a>
             </li>
@@ -48,8 +50,7 @@
 			</div>
 		</div>
 	</nav>
-
-
+</head>
 
 		<section id="servicos">
 			<div class="container">
@@ -64,21 +65,21 @@
 							<div class="Servicos-hover-content">
 							</div>
 						</div>
-						<center><button type="button" class="btn btn-outline-primary">Ativação de Programas</button></center>
+						<center><h5>Ativação de Programas</h5></center>
 						<img class="img-fluid" src="img/programas.jpg" alt="">
 						<div class="Servicos-caption">
 							<div class="pre-spoiler">					
 							</div>
-							<p>
+							<p><br>
 
-  <center><button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">
+  <center><button class="btn btn-outline-primary" type="button" data-toggle="collapse" data-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">
     Informações Sobre o Serviço
   </button></center>
 </p>
 <div class="collapse" id="collapseExample">
   <div class="card card-body">
     Este serviço tem por sua vez a instalação de programas de qualquer sistema operacial, instalamos da melhor forma possivel para a satisfação do cliente.<br><br>
-    <center><p class=>Valor Avista - R$:25,00<br>
+    <center><p class=>Valor A vista - R$:25,00<br>
 							Valor no Cartão - R$:30,00</center>
   </div>
 </div>
@@ -92,20 +93,20 @@
 							<div class="Servicos-hover-content">
 							</div>
 						</div>
-						<center><button type="button" class="btn btn-outline-primary">Descbloqueio de Computadores e Notebooks</button></center>
+						<center><h5>Desbloqueio de Computadores e Notebooks</h5></center>
 						<br><img class="img-fluid" src="img/pc-sem-fundo.png" alt=""></br>
 						<div class="Servicos-caption">
 							
 							<p>
  
-  <center><button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#collapseExamples" aria-expanded="false" aria-controls="collapseExample">
+  <center><button class="btn btn-outline-primary" type="button" data-toggle="collapse" data-target="#collapseExamples" aria-expanded="false" aria-controls="collapseExample">
     Informações Sobre o Serviço<br>
   </button><center>
 </p>
 <div class="collapse" id="collapseExamples">
   <div class="card card-body">
     Este serviço, tem como finalidade o desbloqueio de computadores que foram bloqueados por esquecimento de senhas.<br><br>
-     <center><p class=>Valor Avista - R$:25,00<br>
+     <center><p class=>Valor A vista - R$:25,00<br>
 							Valor no Cartão - R$:30,00</center>
   
   </div>
@@ -118,19 +119,21 @@
 							<div class="Servicos-hover-content">
 							</div>
 						</div>
-						<center><button type="button" class="btn btn-outline-primary">Formatação de Computadores e Notebooks</button></center>
+						<center><h5>Formatação de Computadores e Notebooks</h5></center>
 						<img class="img-fluid" src="img/43.png" alt=""><br>
 						<div class="Servicos-caption">
 						
 <p>
  
-  <center><button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#collapseExamplesss" aria-expanded="false" aria-controls="collapseExamplesss">
+  <center><button class="btn btn-outline-primary" type="button" data-toggle="collapse" data-target="#collapseExamplesss" aria-expanded="false" aria-controls="collapseExamplesss">
     Informações Sobre o Serviço
   </button></center>
 </p>
 <div class="collapse" id="collapseExamplesss">
   <div class="card card-body">
     Este serviço tem como finalidade a remoção de vírus do sistema operacional e a reinstalação do sistema operacial, onde cliente possa ultilizar o seu desktop, sem problemas com lentidão causado por vírus e malwares.
+    <center><p class=>Valor A vista - R$:250,00<br>
+							Valor no Cartão - R$:270,00</p></center>
   </div>
 </div>
 						</div>
@@ -140,19 +143,19 @@
 							<div class="Servicos-hover-content">
 							</div>
 						</div>
-						<center><button type="button" class="btn btn-outline-primary">Instalação de Drives</button></center>
+						<center><h5>Instalação de Drives</h5></center>
 						<img class="img-fluid" src="img/computador_conserto_manutencao.png" alt="">
 						<div class="Servicos-caption">
 							
 						<p>
-    <center><button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#collapseExamplessss" aria-expanded="false" aria-controls="collapseExample">
+    <center><button class="btn btn-outline-primary" type="button" data-toggle="collapse" data-target="#collapseExamplessss" aria-expanded="false" aria-controls="collapseExample">
    Informações Sobre o Serviço
   </button></center>
 </p>
 <div class="collapse" id="collapseExamplessss">
   <div class="card card-body">
     Este serviço tem como finalidade, a instalação drive do sistema operacional que possam está faltando no sistema operacional.<br><br>
-    <center><p class=>Valor Avista - R$:25,00<br>
+    <center><p class=>Valor A vista - R$:25,00<br>
 							Valor no Cartão - R$:30,00</p></center>
   </div>
 </div>
@@ -163,19 +166,19 @@
 							<div class="Servicos-hover-content">
 							</div>
 						</div>
-						<center><button type="button" class="btn btn-outline-primary">Instalação de Impressoras</button></center>
+						<center><h5>Instalação de Impressoras</h5></center>
 						<img class="img-fluid" src="img/tut-071.jpg" alt="">
 						<div class="Servicos-caption">
 							<p>
  
-  <center><button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#collapseExamplez" aria-expanded="false" aria-controls="collapseExample">
+  <center><button class="btn btn-outline-primary" type="button" data-toggle="collapse" data-target="#collapseExamplez" aria-expanded="false" aria-controls="collapseExample">
    Informações Sobre o Serviço
   </button></center>
 </p>
 <div class="collapse" id="collapseExamplez">
   <div class="card card-body">
     Este Serviço tem como finalidade a instalação de impressoras nas casas dos nossos clientes.<br><br>
-    <center><p class=>Valor Avista - R$:25,00<br>
+    <center><p class=>Valor A vista - R$:25,00<br>
 							Valor no Cartão - R$:30,00</p></center>
   </div>
 </div>
@@ -186,20 +189,20 @@
 							<div class="Servicos-hover-content">
 							</div>
 						</div>
-						<center><button type="button" class="btn btn-outline-primary">Instalação de Jogos</button></center>
+						<center><h5>Instalação de Jogos</h5></center>
 						<img class="img-fluid" src="img/a719aa02-f520-48f5-8428-31075fa56f02.jpeg" alt="">
 						<div class="Servicos-caption">
 							
 							<p>
   
-  <center><button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#collapseExampleq" aria-expanded="false" aria-controls="collapseExample">
+  <center><button class="btn btn-outline-primary" type="button" data-toggle="collapse" data-target="#collapseExampleq" aria-expanded="false" aria-controls="collapseExample">
     Informações Sobre o Serviço
   </button></center>
 </p>
 <div class="collapse" id="collapseExampleq">
   <div class="card card-body">
     Este serviço tem como finalidade a instalação de jogos em computadores do clientes.<br><br>
-    <center><p class=>Valor Avista - R$:25,00<br>
+    <center><p class=>Valor A vista - R$:25,00<br>
 							Valor no Cartão - R$:30,00</p></center>
   </div>
 </div>
@@ -210,19 +213,19 @@
 							<div class="Servicos-hover-content">
 							</div>
 						</div>
-						<center><button type="button" class="btn btn-outline-primary">Pendrive Bootável</button></center>
+						<center><h5>Pendrive Bootável</h5></center>
 						<img class="img-fluid" src="img/pen-driver1.png" alt="">
 						<div class="Servicos-caption">
 							<p>
   
-  <center><button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#collapseExamplea" aria-expanded="false" aria-controls="collapseExample">
+  <center><button class="btn btn-outline-primary" type="button" data-toggle="collapse" data-target="#collapseExamplea" aria-expanded="false" aria-controls="collapseExample">
     Informações Sobre o Serviço
   </button></center>
 </p>
 <div class="collapse" id="collapseExamplea">
   <div class="card card-body">
     Este serviço tem como finalidade o uso do pendrives para formatações futuras no sistema operacional.<br><br>
-    <center><p class=>Valor Avista - R$:45,00<br>
+    <center><p class=>Valor A vista - R$:45,00<br>
 							Valor no Cartão - R$:60,00</p></center>
   </div>
 </div>
@@ -266,21 +269,21 @@
 							<div class="Servicos-hover-content">
 							</div>
 						</div>
-						<center><button type="button" class="btn btn-outline-primary">Mercado Pago - Point Mini</button></center>
+						<center><h5>Mercado Pago - Point Mini</h5></center>
 				
 						<img class="img-fluid" src="img/mercadopago.jpg" alt="">
 						<div class="Servicos-caption">
 							
 							<p>
   
-  <center><button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#collapseExamplev" aria-expanded="false" aria-controls="collapseExample">
+  <center><button class="btn btn-outline-primary" type="button" data-toggle="collapse" data-target="#collapseExamplev" aria-expanded="false" aria-controls="collapseExample">
     Informações Sobre o Produto
   </button></center>
 </p>
 <div class="collapse" id="collapseExamplev">
   <div class="card card-body">
     Está maquineta tem as menores taxas do mercado o valor está aplicado o desconto da Martins Technology.<br><br>
-    <center><p class=>Valor Avista - R$:68,80<br>
+    <center><p class=>Valor A vista - R$:68,80<br>
 							Valor no Cartão - 12x R$:5,73</p></center>
   </div>
 </div>
@@ -291,20 +294,20 @@
 							<div class="Servicos-hover-content">
 							</div>
 						</div>
-						<center><button type="button" class="btn btn-outline-primary">Google ChormeCast</button></center>
+						<center><h5>Google ChormeCast</h5></center>
 						<img class="img-fluid" src="img/29513155_423510191430366_4365609516952684044_n.jpg" alt="">
 						<div class="Servicos-caption">
 							
 							<p>
  
-  <center><button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#collapseExampleh" aria-expanded="false" aria-controls="collapseExample">
+  <center><button class="btn btn-outline-primary" type="button" data-toggle="collapse" data-target="#collapseExampleh" aria-expanded="false" aria-controls="collapseExample">
    Informações Sobre o Produto
   </button></center>
 </p>
 <div class="collapse" id="collapseExampleh">
   <div class="card card-body">
    O Chromecast é um acessório do Google capaz de “transformar” qualquer televisão com uma entrada HDMI em uma Smart TV, porque oferece serviços como o Netflix. O pequeno dispositivo, que lembra o formato de pen drive, é também um transmissor. Ele faz streaming do conteúdo de outros aparelhos, como smartphones e computadores, para a TV.<br><br>
-    <center><p class=>Valor Avista - R$:250,00<br>
+    <center><p class=>Valor A vista - R$:250,00<br>
 							Valor no Cartão - R$:270,00</p></center>
   </div>
 </div>
@@ -315,35 +318,58 @@
 							<div class="Servicos-hover-content">
 							</div>
 						</div>
-						<center><button type="button" class="btn btn-outline-primary">Estabilizador</button></center>
+						<center><h5>Estabilizador</h5></center>
 						<img class="img-fluid" src="img/estabilizador.jpg" alt="">
 						<div class="Servicos-caption">
 							
 						<p>
 
-  <center><button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#collapseExample4" aria-expanded="false" aria-controls="collapseExample">
+  <center><button class="btn btn-outline-primary" type="button" data-toggle="collapse" data-target="#collapseExample4" aria-expanded="false" aria-controls="collapseExample">
     Informações Sobre o Produto
   </button></center>
 </p>
 <div class="collapse" id="collapseExample4">
   <div class="card card-body">
     é responsável pela conexão de aparelhos eletrônicos a tomadas na casa dos brasileiros há décadas, antes mesmo de existirem os computadores pessoais.<br><br>
-    <center><p class=>Valor Avista - R$:90,00<br>
+    <center><p class=>Valor A vista - R$:90,00<br>
 							Valor no Cartão - R$:110,00</p></center>
   </div>
+
 </div>
-  </div>
-</div>
-						</div>
+				</li>
+				<li><a href="cadastro.php" class="fa fa-address-card" aria-hidden="true">Cadastre-se</a></li>
+				<a href="#myModal" class="fa fa-sign-in" data-toggle="modal">Login</a>
+			</ul>
+		</div>
+		</div>
+	</div>
+</nav>
+
+<div id="myModal" class="modal fade">
+	<div class="modal-dialog modal-login">
+		<div class="modal-content">
+			<div class="modal-header">			
+				<h4 class="modal-title">Login</h4>	
+                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+			</div>
+			<div class="modal-body">
+				<form action="auth.php" method="post">
+					<div class="form-group">
+						<input type="text" class="form-control" name="login" placeholder="login" required="required">		
 					</div>
-					
-  </div>
+					<div class="form-group">
+						<input type="password" class="form-control" name="senha" placeholder="senha" required="required">	
+					</div>        
+					<div class="form-group">
+						<button type="submit" class="btn btn-primary btn-lg btn-block login-btn">Entrar</button>
+							<a href="cadastro.php" style="margin-left: 400px;">Cadastre-se</a>
+
+					</div>
+				</form>
+			</div>
+		</div>
+	</div>
 </div>
-						</div>
-
-
-					</div> 
-
 						</div>
 						<img class="img-fluid" src="" alt="">
 						<div class="Servicos-caption">
@@ -536,17 +562,12 @@
 				<div class="container">
 					<div class="row">
 						<div class="col-md-4">
-							<span class="copyright"><center><button class="btn btn-primary" type="submit">Instituto Federal de Pernambuco</button></center></span><br><br>
-
-
-
-
-
+							<span class="copyright"><center><h5>Instituto Federal de Pernambuco</h5>
+							Campus Igarassu </center></span><br><br>
 						</div>
 						<div class="col-md-4">
-							<center><ul class="list-inline social-buttons"></center>
-								<li class="list-inline-item">
-									<a href="https://Facebook.com/MartinsTechnology">
+							<center><li class="list-inline-item"></center>
+									<a href="https://www.facebook.com/MartinsTechnology">
 										<i class="fab fa-facebook icon"></i>
 									</a>
 								</li>
@@ -556,21 +577,19 @@
 									</a>
 								</li>
 								<li class="list-inline-item">
-									<a href="https://web.whatsapp.com">
+									<a href="https://api.whatsapp.com/send?phone=5581988771710&text=Ol%C3%A1+Seja+Bem-Vindo+ao+atendimento+da+Martins+Technology%2C+Como+Posso+lhe+ajudar+%3F">
 										<i class="fab fa-whatsapp icon"></i>
 									</a>
 								</li>
 							</ul>
 						</div>
-						<div class="col-md-4">
-							<ul class="list-inline quicklinks">
-								<li class="list-inline-item">
-									<a href="#"><center><button class="btn btn-primary" type="submit">Página Inicial</button></center></a>
+						
 								</li>
 							</ul>
 						</div>
 					</div>
 				</div>
 			</footer>
+
 <!-- 		<script src="aos-master/src/js/helpers/prepare.js"></script> -->
 
