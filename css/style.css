@@ -5,7 +5,7 @@
 
 
 #mainNav{
-	background-color: #0080FF
+	background-color:#007bff
 }
 .nav-link{
 	color: white;
@@ -14,7 +14,7 @@
 	color: white;
 }
 .navbar-brand{
-	color: white;
+	color:white;
 }
 
 .form-control{
@@ -192,5 +192,9 @@ span.psw {
     }
 }
 </style>
-
-
+.btn-outline-primary {
+    color: #000000;
+    background-color: transparent;
+    background-image: none;
+    border-color: #007bff;
+}
