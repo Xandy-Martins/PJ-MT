@@ -3,9 +3,17 @@
 	padding: 0;
 }
 
+#menu {
+  position: fixed;
+  right: 0;
+  top: 50%;
+  width: 8em;
+  margin-top: -2.5em;
+}
 
-#mainNav{ 
-	background-color:#007bff
+
+#mainNav{
+	background-color:#007bff;
 }
 .nav-link{
 	color: white;
@@ -18,14 +26,20 @@
 }
 
 .form-control{
-	padding: 20px;
+	padding: 10px;
 }
+
+#Login{
+	background-color: white;
+}
+
 #equipe{
 	background-color: black;
 }
 #servicos{
 	background-color: white;
 	padding: 50px;
+    margin-top: 40px;
 }
 #produtos{
 	background-color: white;
@@ -198,3 +212,4 @@ span.psw {
     background-image: none;
     border-color: #007bff;
 }
+

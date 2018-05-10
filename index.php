@@ -1,4 +1,5 @@
 <head>
+
 	<meta charset="UTF-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>Martins Technology</title>
@@ -10,24 +11,26 @@
 	<link rel="icon" href="img/26168939_392450217869697_9061459695988775158_n.png">
 	<!--<link href="https://cdn.rawgit.com/michalsnik/aos/2.1.1/dist/aos.css" rel="stylesheet">-->
 
-	<nav class="navbar navbar-expand-lg" id="mainNav">
+	<nav class="navbar navbar-expand-lg fixed-top" id="mainNav">
 		<div class="container">
 			<br><a class="navbar-brand js-scroll-trigger" href="#page-top">Martins Technology</a><br>
 			<button class="navbar-toggler navbar-toggler-right collapsed" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
 				Menu
-				<i class="fa fa-bars"></i>
+     <i class="fa fa-bars"></i>
 			</button>
 			<div class="navbar-collapse collapse" id="navbarResponsive" style="">
 				<ul class="navbar-nav text-uppercase ml-auto">
 					<li class="nav-item">
 						<li class="nav-item">
-						<a class="nav-link js-scroll-trigger" data-toggle="modal" data-target="#myModal" href="#my"></a>
+						<a class="" data-toggle="modal" data-target="#myModal" href="#my"></a>
 					       <li class="nav-item">
-              <a class="nav-link js-scroll-trigger" href="#mryModal">Login</a>
+              <a class="nav-link js-scroll-trigger" href="login.php"></a>
+              <li><a href="#myModal" class="nav-link js-scroll-trigger" data-toggle="modal">Login</a></li>
 
             </li>
 
 					</li>
+				
             <li class="nav-item">
 						<a class="nav-link js-scroll-trigger" href="#servicos">Serviços</a>
 					</li>
@@ -46,10 +49,19 @@
 
               <a class="nav-link js-scroll-trigger" href="formulario.php">Agendamento de Serviços</a>
             </li>
+            
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+</div>
 				</ul>
 			</div>
 		</div>
 	</nav>
+
 </head>
 
 		<section id="servicos">
@@ -71,6 +83,7 @@
 							<div class="pre-spoiler">					
 							</div>
 							<p><br>
+
 
   <center><button class="btn btn-outline-primary" type="button" data-toggle="collapse" data-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">
     Informações Sobre o Serviço
@@ -336,35 +349,13 @@
   </div>
 
 </div>
-				</li>
-				<li><a href="cadastro.php" class="fa fa-address-card" aria-hidden="true">Cadastre-se</a></li>
-				<a href="#myModal" class="fa fa-sign-in" data-toggle="modal">Login</a>
+			
 			</ul>
 		</div>
 		</div>
 	</div>
 </nav>
 
-<div id="myModal" class="modal fade">
-	<div class="modal-dialog modal-login">
-		<div class="modal-content">
-			<div class="modal-header">			
-				<h4 class="modal-title">Login</h4>	
-                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
-			</div>
-			<div class="modal-body">
-				<form action="auth.php" method="post">
-					<div class="form-group">
-						<input type="text" class="form-control" name="login" placeholder="login" required="required">		
-					</div>
-					<div class="form-group">
-						<input type="password" class="form-control" name="senha" placeholder="senha" required="required">	
-					</div>        
-					<div class="form-group">
-						<button type="submit" class="btn btn-primary btn-lg btn-block login-btn">Entrar</button>
-							<a href="cadastro.php" style="margin-left: 400px;">Cadastre-se</a>
-
-					</div>
 				</form>
 			</div>
 		</div>
@@ -590,6 +581,62 @@
 					</div>
 				</div>
 			</footer>
+			<div id="myModal" class="modal fade">
+	<div class="modal-dialog modal-login">
+		<div class="modal-content">
+			<div class="modal-header">			
+				<h4 class="modal-title">Login</h4>	
+                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+			</div>
+			<div class="modal-body">
+				<form action="auth.php" method="post">
+					<div class="form-group">
+						<input type="text" class="form-control" name="login" placeholder="login" required="required">		
+					</div>
+					<div class="form-group">
+						<input type="password" class="form-control" name="senha" placeholder="senha" required="required">	
+					</div>        
+					<div class="form-group">
+						<button type="submit" class="btn btn-primary btn-lg btn-block login-btn">Entrar</button>
+							<a href="cadastro.php" style="margin-left: 400px;">Cadastre-se</a>
+
+					</div>
+				</form>
+			</div>
+		</div>
+	</div>
+</div>
+
+<div id="myModalc" class="modal fade">
+	<div class="modal-dialog modal-login">
+		<div class="modal-content">
+			<div class="modal-header">			
+				<h4 class="modal-title">Cadastre-se</h4>	
+                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+			</div>
+			<div class="modal-body">
+				<form action="cad.php" method="post">
+					<div class="form-group">
+						<input type="text" class="form-control" name="novo_login" placeholder="Login" required="required">		
+					</div>
+					<div class="form-group">
+						<input type="password" class="form-control" name="nova_senha" placeholder="Senha" required="required">	
+					</div>
+					<div class="form-group">
+						<input type="text" class="form-control" name="novo_nome" placeholder="Nome" required="required">		
+					</div>
+					<div class="form-group">
+						<input type="text" class="form-control" name="novo_genero" placeholder="Gênero" required="required">		
+					</div>        
+					<div class="form-group">
+						<button type="submit" class="btn btn-primary btn-lg btn-block login-btn">Cadastre</button>
+					</div>
+				</form>
+			</div>
+		</div>
+	</div>
+</div>
+
 
 <!-- 		<script src="aos-master/src/js/helpers/prepare.js"></script> -->
 
