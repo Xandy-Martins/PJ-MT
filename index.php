@@ -23,7 +23,7 @@
 						<li class="nav-item">
 						<a class="nav-link js-scroll-trigger" data-toggle="modal" data-target="#myModal" href="#my"></a>
 					       <li class="nav-item">
-              <a class="nav-link js-scroll-trigger" href="#myModal">Login</a>
+              <a class="nav-link js-scroll-trigger" href="#mryModal">Login</a>
 
             </li>
 
