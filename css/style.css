@@ -142,8 +142,6 @@ padding:40px;
 .container {
 	padding:20px; 
 }
-
-<style>
 body {font-family: Arial, Helvetica, sans-serif;}
 form {border: 3px solid #f1f1f1;}
 
@@ -205,7 +203,6 @@ span.psw {
        width: 100%;
     }
 }
-</style>
 .btn-outline-primary {
     color: #000000;
     background-color: transparent;
@@ -213,3 +210,9 @@ span.psw {
     border-color: #007bff;
 }
 
+#cadastro {
+    background-color: lightblue;
+}
+#agendamento {
+    background-color: lightblue;
+}
