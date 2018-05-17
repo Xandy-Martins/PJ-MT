@@ -13,8 +13,8 @@
 
 	<nav class="navbar navbar-expand-lg fixed-top" id="mainNav">
 		<div class="container">
-			<br><a class="navbar-brand js-scroll-trigger" href="#page-top">Martins Technology</a><br>
-			<button class="navbar-toggler navbar-toggler-right collapsed" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+			<br><a class="navbar-brand js-scroll-trigger" href="index.php">Martins Technology</a><br>
+			<button class="navbar-toggler navbar-toggler-right collapsed" type="button" data-toggle="collapse" data-target="index.php" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
 				Menu
      <i class="fa fa-bars"></i>
 			</button>
@@ -49,8 +49,6 @@
 
               <a class="nav-link js-scroll-trigger" href="formulario.php">Agendamento de Serviços</a>
             </li>
-            
-                    </form>
                 </div>
             </div>
         </div>
@@ -68,7 +66,6 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-lg-12 text-center">
-						<h1 class="">Serviços</h1><br>
 					</div>
 				</div>
 				<div class="row">
@@ -77,7 +74,10 @@
 							<div class="Servicos-hover-content">
 							</div>
 						</div>
-						<center><h5>Ativação de Programas</h5></center>
+						<br>
+						<br>
+						<br>
+						<center><h5><b>Ativação de Programas</b></h5></center>
 						<img class="img-fluid" src="img/programas.jpg" alt="">
 						<div class="Servicos-caption">
 							<div class="pre-spoiler">					
@@ -106,7 +106,10 @@
 							<div class="Servicos-hover-content">
 							</div>
 						</div>
-						<center><h5>Desbloqueio de Computadores e Notebooks</h5></center>
+						<br>
+						<br>
+						<br>
+						<center><h5><b>Desbloqueio de Computadores e Notebooks</b></h5></center>
 						<br><img class="img-fluid" src="img/pc-sem-fundo.png" alt=""></br>
 						<div class="Servicos-caption">
 							
@@ -132,7 +135,10 @@
 							<div class="Servicos-hover-content">
 							</div>
 						</div>
-						<center><h5>Formatação de Computadores e Notebooks</h5></center>
+						<br>
+						<br>
+						<br>
+						<center><h5><b>Formatação de Computadores e Notebooks</b></h5></center>
 						<img class="img-fluid" src="img/43.png" alt=""><br>
 						<div class="Servicos-caption">
 						
@@ -156,7 +162,7 @@
 							<div class="Servicos-hover-content">
 							</div>
 						</div>
-						<center><h5>Instalação de Drives</h5></center>
+						<center><h5><b>Instalação de Drives</b></h5></center>
 						<img class="img-fluid" src="img/computador_conserto_manutencao.png" alt="">
 						<div class="Servicos-caption">
 							
@@ -179,7 +185,7 @@
 							<div class="Servicos-hover-content">
 							</div>
 						</div>
-						<center><h5>Instalação de Impressoras</h5></center>
+						<center><h5><b>Instalação de Impressoras</b></h5></center>
 						<img class="img-fluid" src="img/tut-071.jpg" alt="">
 						<div class="Servicos-caption">
 							<p>
@@ -202,7 +208,7 @@
 							<div class="Servicos-hover-content">
 							</div>
 						</div>
-						<center><h5>Instalação de Jogos</h5></center>
+						<center><h5><b>Instalação de Jogos</b></h5></center>
 						<img class="img-fluid" src="img/a719aa02-f520-48f5-8428-31075fa56f02.jpeg" alt="">
 						<div class="Servicos-caption">
 							
@@ -226,7 +232,7 @@
 							<div class="Servicos-hover-content">
 							</div>
 						</div>
-						<center><h5>Pendrive Bootável</h5></center>
+						<center><h5><b>Pendrive Bootável</b></h5></center>
 						<img class="img-fluid" src="img/pen-driver1.png" alt="">
 						<div class="Servicos-caption">
 							<p>
@@ -273,16 +279,19 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-lg-12 text-center">
-						<h1 class="">Produtos</h1><br><br>
 					</div>
 				</div>
+				<br>
+				<br>
+				<br>
+				<br
 				<div class="row">
 					<div class="col-md-4 col-sm-6 Servicos-item">
 						<div class="Servicos-hover">
 							<div class="Servicos-hover-content">
 							</div>
 						</div>
-						<center><h5>Mercado Pago - Point Mini</h5></center>
+						<center><h5><b>Mercado Pago - Point Mini</b></h5></center>
 				
 						<img class="img-fluid" src="img/mercadopago.jpg" alt="">
 						<div class="Servicos-caption">
@@ -307,7 +316,7 @@
 							<div class="Servicos-hover-content">
 							</div>
 						</div>
-						<center><h5>Google ChormeCast</h5></center>
+						<center><h5><b>Google ChormeCast</b></h5></center>
 						<img class="img-fluid" src="img/29513155_423510191430366_4365609516952684044_n.jpg" alt="">
 						<div class="Servicos-caption">
 							
@@ -331,7 +340,7 @@
 							<div class="Servicos-hover-content">
 							</div>
 						</div>
-						<center><h5>Estabilizador</h5></center>
+						<center><h5><b>Estabilizador</b></h5></center>
 						<img class="img-fluid" src="img/estabilizador.jpg" alt="">
 						<div class="Servicos-caption">
 							
@@ -373,10 +382,11 @@
       <div class="container">
         <div class="row">
           <div class="col-lg-12 text-center">
-            <h1 class="">Equipe</h1>
             <h3 class="section-subheading text-muted"></h3><br>
           </div>
 				</div>
+				<br>
+				<br>
 
 				<div class="row">
 					<div class="col-sm-4">
@@ -465,8 +475,10 @@
       <div class="container">
         <div class="row">
           <div class="col-lg-12 text-center">
+          	<br>
+          	<br>
+          	<br>
 
-            <h1>Historia da Martins Technology</h1>
                           <h4 class="text-muted">A Martins Technology, surgiu na intenção de atender clientes de menor renda, onde possamos atuar realizando serviços de qualidade com preços abaixos, visando sempre a satisfação dos clientes.<br>
                           A Martins Technology foi fundada no dia 07 de maio de 2017, pelo Administrador José Alexandre Martins, hoje em dia a Martins Technology possui vários outros colaboradores, em outros municípios, visando a extensão da empresa, estamos localizados nos municípios de Paulista, Abreu e Lima e Itapissuma, acreditamos que os nossos clientes devem sempre ser nossa prioridade, sempre estamos disponível para atender as solicitações e as dúvidas que possam surgir de qualquer serviço.</h4><br><br>
             <h3 class="section-subheading text-muted"></h4>
@@ -581,7 +593,7 @@
 					</div>
 				</div>
 			</footer>
-			<div id="myModal" class="modal fade">
+<div id="myModal" class="modal fade">
 	<div class="modal-dialog modal-login">
 		<div class="modal-content">
 			<div class="modal-header">			
