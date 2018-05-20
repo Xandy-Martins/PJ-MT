@@ -72,6 +72,7 @@
 					<div class="col-md-4 col-sm-8 Servicos-item">
 						<div class="Servicos-hover">
 							<div class="Servicos-hover-content">
+						
 							</div>
 						</div>
 						<br>
@@ -273,25 +274,23 @@
 
 						
 					</div>
+						</div>
 		</section>
 
 		<section id="produtos">
 			<div class="container">
 				<div class="row">
 					<div class="col-lg-12 text-center">
+						<h1 class="">Produtos</h1><br><br>
 					</div>
 				</div>
-				<br>
-				<br>
-				<br>
-				<br
 				<div class="row">
 					<div class="col-md-4 col-sm-6 Servicos-item">
 						<div class="Servicos-hover">
 							<div class="Servicos-hover-content">
 							</div>
 						</div>
-						<center><h5><b>Mercado Pago - Point Mini</b></h5></center>
+						<center><h5>Mercado Pago - Point Mini</h5></center>
 				
 						<img class="img-fluid" src="img/mercadopago.jpg" alt="">
 						<div class="Servicos-caption">
@@ -304,7 +303,7 @@
 </p>
 <div class="collapse" id="collapseExamplev">
   <div class="card card-body">
-    Está maquineta tem as menores taxas do mercado o valor está aplicado o desconto da Martins Technology.<br><br>
+    Está maquineta tem as menores taxas do mercado, precisar do uso de um smartphones o valor está aplicado o desconto da Martins Technology.<br><br>
     <center><p class=>Valor A vista - R$:68,80<br>
 							Valor no Cartão - 12x R$:5,73</p></center>
   </div>
@@ -316,7 +315,7 @@
 							<div class="Servicos-hover-content">
 							</div>
 						</div>
-						<center><h5><b>Google ChormeCast</b></h5></center>
+						<center><h5>Google ChormeCast</h5></center>
 						<img class="img-fluid" src="img/29513155_423510191430366_4365609516952684044_n.jpg" alt="">
 						<div class="Servicos-caption">
 							
@@ -333,6 +332,8 @@
 							Valor no Cartão - R$:270,00</p></center>
   </div>
 </div>
+
+
 						</div>
 					</div>
 					<div class="col-md-4 col-sm-6 Servicos-item">
@@ -340,7 +341,7 @@
 							<div class="Servicos-hover-content">
 							</div>
 						</div>
-						<center><h5><b>Estabilizador</b></h5></center>
+						<center><h5>Estabilizador</h5></center>
 						<img class="img-fluid" src="img/estabilizador.jpg" alt="">
 						<div class="Servicos-caption">
 							
@@ -358,6 +359,103 @@
   </div>
 
 </div>
+
+			
+			</ul>
+		</div>
+		</div>
+	</div>
+</nav>
+	</section>
+
+		<section id="produtos">
+			<div class="container">
+				<div class="row">
+					<div class="col-lg-12 text-center">
+						<h1 class=""></h1><br><br>
+					</div>
+				</div>
+				<div class="row">
+					<div class="col-md-4 col-sm-6 Servicos-item">
+						<div class="Servicos-hover">
+							<div class="Servicos-hover-content">
+							</div>
+						</div>
+						<center><h5>Mercado Pago - Point I</h5></center>
+				
+						<img class="img-fluid" src="img/leitor-point-i-d200-a-maquina-de-cartao-do-mercado-pago-9308255.jpg" alt="">
+						<div class="Servicos-caption">
+							
+							<p>
+  
+  <center><button class="btn btn-outline-primary" type="button" data-toggle="collapse" data-target="#collapseExamplevgf" aria-expanded="false" aria-controls="collapseExample">
+    Informações Sobre o Produto
+  </button></center>
+</p>
+<div class="collapse" id="collapseExamplevgf">
+  <div class="card card-body">
+    Está maquineta tem as menores taxas do mercado e não precisar do uso do smartphone, o valor está aplicado com o desconto da Martins Technology.<br><br>
+    <center><p class=>Valor A vista - R$:236,80<br>
+							Valor no Cartão - 12x R$:19,73</p></center>
+  </div>
+</div>
+						</div>
+					</div>
+					<div class="col-md-4 col-sm-6 Servicos-item">
+						<div class="Servicos-hover">
+							<div class="Servicos-hover-content">
+							</div>
+						</div>
+						<center><h5>Cabo HMDI</h5></center>
+						<img class="img-fluid" src="img/1-1-cabo_hdmi_x_hdmi_c_filtro_1_4_3d_hdf102_3_mt_lite-52234_2000_001.jpg" alt="">
+						<div class="Servicos-caption">
+							
+							<p>
+ 
+  <center><button class="btn btn-outline-primary" type="button" data-toggle="collapse" data-target="#collapseExampleksj" aria-expanded="false" aria-controls="collapseExampleksj">
+   Informações Sobre o Produto
+  </button></center>
+</p>
+<div class="collapse" id="collapseExampleksj">
+  <div class="card card-body">
+   <br><br>
+    <center><p class=>Valor A vista - R$:25,00<br>
+							Valor no Cartão - R$:35,00</p></center>
+  </div>
+</div>
+
+
+						</div>
+					</div>
+					<div class="col-md-4 col-sm-6 Servicos-item">
+						<div class="Servicos-hover">
+							<div class="Servicos-hover-content">
+							</div>
+						</div>
+						<center><h5>Relogio Bluetooth Smartwatch</h5></center>
+						<img class="img-fluid" src="img/16201929_3SZ.jpg" alt="">
+						<div class="Servicos-caption">
+							
+						<p>
+
+  <center><button class="btn btn-outline-primary" type="button" data-toggle="collapse" data-target="#collapseExamplessd" aria-expanded="false" aria-controls="collapseExample">
+    Informações Sobre o Produto
+  </button></center>
+</p>
+<div class="collapse" id="collapseExamplessd">
+  <div class="card card-body">
+    <div class="card card-body">
+    Usando O Processador Mtk626 3.0 Para Ligar-Se Com O Seu Smartphone Para Ser Usado Como Ummarcador Para Que Voce Possa Fazer E Receber Chamadas, Bem Como Proporcionar Chamada E Notificacao De Mensagem. Nao So Isso, Mas Voce Pode Usar O Software Personalizado Para Controlar Seus Movimentos Diarios, Uma Vez Que Foi Construido Em Um Pedometro, Monitor De Sono E Lembrete Sedentario. A Capacidade De Sincronizar Com O Seu Calendario De Telefones Significntes E Com Caracteristicas Anti Perda Voce Sera Lembrado Se Voce Acidentalmente Deixar O Seu Celular Para Tras. Se Voce Estiver Indo Para Uma Corrida Ou Simplesmente Nao Quer Levar Seu Celular, Voce Pode Inserir Um Cartao Micro Sim No Relogio E Deixar O Seu Telefone Em Casa. O Relogio Do Telefone Dz09 Pode Fazer Tudo Para Que Voce Nao Precise Sair Sem Ele. A Tela Sensivel Ao Toque De 1,56 Polegadas Fornece Uma Interface Clara Para Que Voce Possa Acessar As Funcoes De Audio E Video. A Camera Permite Tirar Fotos E Video De Seu Proprio Modo. O Slot Para Cartao Micro Sd Podeser Usado Para Fornecer Ate 32 Gb De Armazenamento Removivel Para Todo O Seu Conteudo De Midia E Com Uma Duracao De Bateria De Espera 180 Horas.<br><br>
+    <center><p class=>Valor A vista - R$:90,00<br>
+							Valor no Cartão - R$:110,00</p></center>
+  </div>
+
+</div>
+				
+						
+  </div>
+</div>
+
 			
 			</ul>
 		</div>
@@ -397,6 +495,11 @@
 							<p class="text-muted"></p>
 							<ul class="list-inline social-buttons">
 								<li class="list-inline-item"
+																<li class="list-inline-item">
+									<a href="https://api.whatsapp.com/send?phone=5581988771710&text=Ol%C3%A1+Seja+Bem-Vindo+ao+atendimento+da+Martins+Technology%2C+Como+Posso+lhe+ajudar+%3F">
+										<i class="fab fa-whatsapp icon"></i>
+									</a>
+								</li>
 									
 									</a>
 								</li>
@@ -412,6 +515,11 @@
 							<h4>Lucielly Fernanda</h4>
 							<p class="text-muted">Paulista-PE</p>
 							<p class="text-muted"></p>
+															<li class="list-inline-item">
+									<a href="https://api.whatsapp.com/send?phone=5581985107281&text=Ol%C3%A1+Seja+Bem-Vindo+ao+atendimento+da+Martins+Technology%2C+Como+Posso+lhe+ajudar+%3F">
+										<i class="fab fa-whatsapp icon"></i>
+									</a>
+								</li>
 
 							<ul class="list-inline social-buttons">
 								<li class="list-inline-item">
@@ -435,6 +543,11 @@
 							<p class="text-muted"></p>
 							<ul class="list-inline social-buttons"
 								<li class="list-inline-item">
+																<li class="list-inline-item">
+									<a href="https://api.whatsapp.com/send?phone=5581998082117&text=Ol%C3%A1+Seja+Bem-Vindo+ao+atendimento+da+Martins+Technology%2C+Como+Posso+lhe+ajudar+%3F">
+										<i class="fab fa-whatsapp icon"></i>
+									</a>
+								</li>
 																		</a>
 								</li>
 								
@@ -452,6 +565,11 @@
 							<ul class="list-inline social-buttons"
 								<li class="list-inline-item"
 								<li class="list-inline-item"
+																<li class="list-inline-item">
+									<a href="https://api.whatsapp.com/send?phone=5581988985368&text=Ol%C3%A1+Seja+Bem-Vindo+ao+atendimento+da+Martins+Technology%2C+Como+Posso+lhe+ajudar+%3F">
+										<i class="fab fa-whatsapp icon"></i>
+									</a>
+								</li>
 									
 									</a>
 								</li>
@@ -610,7 +728,7 @@
 					</div>        
 					<div class="form-group">
 						<button type="submit" class="btn btn-primary btn-lg btn-block login-btn">Entrar</button>
-							<a href="cadastro.php" style="margin-left: 400px;">Cadastre-se</a>
+							<center><a href="cadastro.php" style="margin-left: 400px;">Cadastro</a></center>
 
 					</div>
 				</form>
@@ -623,7 +741,7 @@
 	<div class="modal-dialog modal-login">
 		<div class="modal-content">
 			<div class="modal-header">			
-				<h4 class="modal-title">Cadastre-se</h4>	
+				<center><h4 class="modal-title">Cadastro</h4></center>
                 <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
 			</div>
 			<div class="modal-body">
@@ -641,7 +759,7 @@
 						<input type="text" class="form-control" name="novo_genero" placeholder="Gênero" required="required">		
 					</div>        
 					<div class="form-group">
-						<button type="submit" class="btn btn-primary btn-lg btn-block login-btn">Cadastre</button>
+						<center><button type="submit" class="btn btn-primary btn-lg btn-block login-btn">Cadastro</button></center>
 					</div>
 				</form>
 			</div>
