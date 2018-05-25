@@ -47,7 +47,7 @@
             </li>
 					<li class="nav-item">
 
-              <a class="nav-link js-scroll-trigger" href="formulario.php">Agendamento de Serviços</a>
+              <a class="nav-link js-scroll-trigger" href="#agendamento">Agendamento de Serviços</a>
             </li>
                 </div>
             </div>
@@ -66,6 +66,7 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-lg-12 text-center">
+							<h1 class=""><b>serviços</b></h1>
 					</div>
 				</div>
 				<div class="row">
@@ -281,7 +282,7 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-lg-12 text-center">
-						<h1 class="">Produtos</h1><br><br>
+						<h1 class=""><b>Produtos</b></h1><br><br>
 					</div>
 				</div>
 				<div class="row">
@@ -290,7 +291,7 @@
 							<div class="Servicos-hover-content">
 							</div>
 						</div>
-						<center><h5>Mercado Pago - Point Mini</h5></center>
+						<center><h5><b>Mercado Pago - Point Mini</b></h5></center>
 				
 						<img class="img-fluid" src="img/mercadopago.jpg" alt="">
 						<div class="Servicos-caption">
@@ -315,7 +316,7 @@
 							<div class="Servicos-hover-content">
 							</div>
 						</div>
-						<center><h5>Google ChormeCast</h5></center>
+						<center><h5><b>Google ChormeCast</b></h5></center>
 						<img class="img-fluid" src="img/29513155_423510191430366_4365609516952684044_n.jpg" alt="">
 						<div class="Servicos-caption">
 							
@@ -341,7 +342,7 @@
 							<div class="Servicos-hover-content">
 							</div>
 						</div>
-						<center><h5>Estabilizador</h5></center>
+						<center><h5><b>Estabilizador</b></h5></center>
 						<img class="img-fluid" src="img/estabilizador.jpg" alt="">
 						<div class="Servicos-caption">
 							
@@ -381,7 +382,7 @@
 							<div class="Servicos-hover-content">
 							</div>
 						</div>
-						<center><h5>Mercado Pago - Point I</h5></center>
+						<center><h5><b>Mercado Pago - Point I</b></h5></center>
 				
 						<img class="img-fluid" src="img/leitor-point-i-d200-a-maquina-de-cartao-do-mercado-pago-9308255.jpg" alt="">
 						<div class="Servicos-caption">
@@ -406,7 +407,7 @@
 							<div class="Servicos-hover-content">
 							</div>
 						</div>
-						<center><h5>Cabo HMDI</h5></center>
+						<center><h5><b>Cabo HMDI</b></h5></center>
 						<img class="img-fluid" src="img/1-1-cabo_hdmi_x_hdmi_c_filtro_1_4_3d_hdf102_3_mt_lite-52234_2000_001.jpg" alt="">
 						<div class="Servicos-caption">
 							
@@ -432,7 +433,7 @@
 							<div class="Servicos-hover-content">
 							</div>
 						</div>
-						<center><h5>Relogio Bluetooth Smartwatch</h5></center>
+						<center><h5><b>Relogio Bluetooth Smartwatch</b></h5></center>
 						<img class="img-fluid" src="img/16201929_3SZ.jpg" alt="">
 						<div class="Servicos-caption">
 							
@@ -480,6 +481,7 @@
       <div class="container">
         <div class="row">
           <div class="col-lg-12 text-center">
+          	<h1 class=""><b>Equipe</b></h1>
             <h3 class="section-subheading text-muted"></h3><br>
           </div>
 				</div>
@@ -593,8 +595,7 @@
       <div class="container">
         <div class="row">
           <div class="col-lg-12 text-center">
-          	<br>
-          	<br>
+          	<h1 class=""><b>História da Martins Technology</b></h1>
           	<br>
 
                           <h4 class="text-muted">A Martins Technology, surgiu na intenção de atender clientes de menor renda, onde possamos atuar realizando serviços de qualidade com preços abaixos, visando sempre a satisfação dos clientes.<br>
@@ -608,7 +609,7 @@
              
                 <div class="timeline-panel">
                   <div class="timeline-heading">
-                          <center><h4>Nossa Missão</h4></center>
+                          <center><h1><b>Missão</b></h1></center>
                           <center><h4 class="text-muted">Prover soluções para os nossos clinetes, assegurando níveis adequados de custo, qualidade e prazo.</h4></center>	
                   </div>
                   <div class="timeline-body">
@@ -621,7 +622,7 @@
                 </div>
                 <div class="timeline-panel">
                   <div class="timeline-heading">
-                  	<center><h4>VISÃO</h4></center>
+                  	<center><h1><b>Vissão</b></h1></center>
                     <center><h4 class="text-muted">Ser uma empresa em soluções apropriadas e inovadoras para os nossos clientes,, atendendo com eficácia às solicitações.</h4></center>
                   </div>
                   <div class="timeline-body">
@@ -635,8 +636,7 @@
                 </div>
                 <div class="timeline-panel">
                   <div class="timeline-heading">
-                    <center><h4>VALORES</h4></center>
-                   
+                    <center><h1><b>Valores</b></h1></center>
                     <center><h4 class="text-muted">Promover a satisfação dos clientes como objetivo principal, Confiabilidade, Ética e Trasparencia</h4></center>
                   </div>
                   <div class="timeline-body">
@@ -647,6 +647,54 @@
               <li class="timeline-inverted">
                 <div class="timeline-image">
                   <center><h4><br><br>
+                  	<section id="email.php">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12 text-center">
+        <center><h2 class="section-heading text-uppercase"></h2></center>
+
+        <center><h3 class="section-subheading text-muted">Agradecemos por você querer fazer parte do nosso time de clientes, em breve entraremos em contato com você.</h3></center>
+      </div>
+    </div>
+    <div class="row" id="agendamento">
+      <div class="col-lg-12">
+        <center><form id="contactForm" name="Agendamento realizado, em breve entraremos em contato com você." action="email.php" method="POST" novalidate>
+          <div class="row">
+            <div class="col-md-6">
+              <div class="form-group">
+                <input class="form-control" id="name" type="text" name="nome" placeholder="Nome Completo" required data-validation-required-message="Por Favor insira o seu nome completo.">
+                <p class="help-block text-danger"></p>
+              </div>
+              <div class="form-group">
+                <input class="form-control" id="email" type="email" name="email" placeholder="E-mail" required data-validation-required-message="Por Favor insira o seu  e-mail.">
+                <p class="help-block text-danger"></p>
+              </div>
+              <div class="form-group">
+                <input class="form-control" id="phone" type="tel" name="whatsapp" placeholder="WhatsApp - (81) 98877-1710" required data-validation-required-message="Por Favor insira o seu WhatsApp">
+                <p class="help-block text-danger"></p>
+              </div>
+            </div>
+            <div class="col-md-6">
+              <div class="form-group">
+                <textarea class="form-control" id="message" name="mensagem" placeholder="Descreva seu problema no seu Desktop." required data-validation-required-message="Campo em branco, por favor informe seu problema."></textarea>
+                <p class="help-block text-danger"></p>
+
+                <center><a href="email.php"><button type="button" class="btn btn-outline-secondary">Agendar Serviço</button></center>
+              </div>
+            </div>
+            <div class="clearfix"></div>
+            <div class="col-lg-12 text-center">
+              <div id="success"></div>
+            </div>
+          </div>
+        </form></center>
+      </div>
+    </div>
+  </div>
+</section>
+<div style="width:5%;height: 5%;margin-left: 45%;">
+ 
+    </div>
 
                 </div>
 
