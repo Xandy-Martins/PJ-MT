@@ -3,7 +3,7 @@
 	<meta charset="UTF-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>Martins Technology</title>
-	<link rel="stylesheet" href="css/style.css">
+	<link rel="stylesheet" href="animate.css'">
 	<link rel="stylesheet" href="bootstrap-4.0.0-dist/css/bootstrap.min.css">
 	<link rel="stylesheet" href="fontawesome-free-5.0.9/web-fonts-with-css/css/fontawesome-all.css">
 	<!--<link href="https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300" rel="stylesheet">-->
@@ -65,8 +65,8 @@
 		<section id="servicos">
 			<div class="container">
 				<div class="row">
-					<div class="col-lg-12 text-center">
-							<h1 class=""><b>serviços</b></h1>
+					<div class="col-lg-12 text-center"><br><br><br>
+							<h1 class=""><b>Serviços</b></h1>
 					</div>
 				</div>
 				<div class="row">
@@ -560,7 +560,7 @@
 					</div>
 					<div class="col-sm-4">
 						<div class="team-member">
-							<id="José Alexandre Martins"><img class="mx-auto rounded-circle" src="img/team/alexandre.jpg" alt=""><id>
+							<id="José Alexandre Martins"><img class="mx-auto rounded-circle" src="img/team/alexandr.jpg" alt=""><id>
 							<h4>José Alexandre Martins</h4>
 							<p class="text-muted">Paulista-PE</p>
 							<p class="text-muted"></p> 
@@ -572,7 +572,8 @@
 										<i class="fab fa-whatsapp icon"></i>
 									</a>
 								</li>
-									
+									</ul>
+								</id>
 									</a>
 								</li>
 								
@@ -776,7 +777,7 @@
 					</div>        
 					<div class="form-group">
 						<button type="submit" class="btn btn-primary btn-lg btn-block login-btn">Entrar</button>
-							<center><a href="cadastro.php" style="margin-left: 400px;">Cadastro</a></center>
+							<center><a href="form-cadastro-assoc.php" style="margin-left: 400px;">Cadastro</a></center>
 
 					</div>
 				</form>
@@ -785,35 +786,6 @@
 	</div>
 </div>
 
-<div id="myModalc" class="modal fade">
-	<div class="modal-dialog modal-login">
-		<div class="modal-content">
-			<div class="modal-header">			
-				<center><h4 class="modal-title">Cadastro</h4></center>
-                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
-			</div>
-			<div class="modal-body">
-				<form action="cad.php" method="post">
-					<div class="form-group">
-						<input type="text" class="form-control" name="novo_login" placeholder="Login" required="required">		
-					</div>
-					<div class="form-group">
-						<input type="password" class="form-control" name="nova_senha" placeholder="Senha" required="required">	
-					</div>
-					<div class="form-group">
-						<input type="text" class="form-control" name="novo_nome" placeholder="Nome" required="required">		
-					</div>
-					<div class="form-group">
-						<input type="text" class="form-control" name="novo_genero" placeholder="Gênero" required="required">		
-					</div>        
-					<div class="form-group">
-						<center><button type="submit" class="btn btn-primary btn-lg btn-block login-btn">Cadastro</button></center>
-					</div>
-				</form>
-			</div>
-		</div>
-	</div>
-</div>
 
 
 <!-- 		<script src="aos-master/src/js/helpers/prepare.js"></script> -->
