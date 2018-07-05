@@ -1,16 +1,7 @@
+<?php 
+include "cabecalho.php";
 
-				</form>
-			</div>
-		</div>
-	</div>
-</div>
-						</div>
-						<img class="img-fluid" src="" alt="">
-						<div class="Servicos-caption">
-							<h4></h4>
-							<p class="text-muted"></p>
-						</div>
-					</div>
+?>
 
 		<section class="bg-light" id="team">
       <div class="container">
