@@ -206,7 +206,7 @@ include "cabecalho.php";
                 <textarea class="form-control" id="message" name="mensagem" placeholder="Descreva seu problema no seu Desktop." required data-validation-required-message="Campo em branco, por favor informe seu problema."></textarea>
                 <p class="help-block text-danger"></p>
 
-                <center><a href="email.php"><button type="button" class="btn btn-outline-secondary">Agendar Serviço</button></center>
+                <center><a href="teste.php"><button type="button" class="btn btn-outline-secondary">Agendar Serviço</button></center>
               </div>
             </div>
             <div class="clearfix"></div>
